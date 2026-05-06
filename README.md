@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./demo.svg" alt="Aetheris Scanning Animation" width="800"/>
+  <img src="./demo.svg" alt="Aetheris Scanner" width="800"/>
 
   # Aetheris
   
