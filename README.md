@@ -12,6 +12,8 @@
 
 <br/>
 
+[![Architecture diagram of seleste3580-dev/aetheris](https://gitdiagram.com/seleste3580-dev/aetheris/diagram.png)](https://gitdiagram.com/seleste3580-dev/aetheris?utm_source=readme&utm_medium=picture)
+
 Aetheris is a next-generation port scanning engine built from the ground up in Rust. Designed to replace legacy synchronous tools, it leverages the `Tokio` async runtime to multiplex thousands of raw socket connections simultaneously, making it capable of scanning entire subnets in seconds.
 
 ## 🚀 Features
